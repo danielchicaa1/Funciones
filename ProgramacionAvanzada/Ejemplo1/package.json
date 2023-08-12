@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "repasando logica con las jovenes mentes del mañana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funciones",
+    "funcionesflecha"
+  ],
+  "author": "Daniel",
+  "license": "ISC"
+}
